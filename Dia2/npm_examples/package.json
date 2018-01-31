@@ -1,0 +1,17 @@
+{
+  "name": "npm_examples",
+  "version": "1.0.0",
+  "description": "Proyecto para crear servicios rest",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "rest",
+    "api"
+  ],
+  "author": "angel antezana",
+  "license": "ISC"
+}
