@@ -18,8 +18,8 @@ https://www.getpostman.com/
 
 # Contacto
 
-Correo: ghehahanghel@gmail.com
-Correo: ghahanghelhh@outlook.com
+* Correo: ghehahanghel@gmail.com
+* Correo: ghahanghelhh@outlook.com
 
 ## Lista de Estudiantes
 
