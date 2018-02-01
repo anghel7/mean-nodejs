@@ -25,4 +25,6 @@ Correo: ghahanghelhh@outlook.com
 
 https://docs.google.com/spreadsheets/d/1IS2tUtQPt4A7G0kgvVJ9kDbq70o76xGn1NxpYkMBJoE/edit?usp=sharing
 
+## Link para xampp(Recomendado PHP 5.6.33)
 
+https://www.apachefriends.org/download.html
